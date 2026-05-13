@@ -1,2 +1,0 @@
-# OnboardingApp
-Netchex Onboarding App
